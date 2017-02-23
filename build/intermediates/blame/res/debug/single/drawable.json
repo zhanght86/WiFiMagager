@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "D:\\WifiMagager\\build\\intermediates\\res\\merged\\debug\\drawable\\my_layout4.xml",
+        "source": "D:\\WifiMagager\\res\\drawable\\my_layout4.xml"
+    },
+    {
+        "merged": "D:\\WifiMagager\\build\\intermediates\\res\\merged\\debug\\drawable\\my_layout1.xml",
+        "source": "D:\\WifiMagager\\res\\drawable\\my_layout1.xml"
+    },
+    {
+        "merged": "D:\\WifiMagager\\build\\intermediates\\res\\merged\\debug\\drawable\\button_selector_green.xml",
+        "source": "D:\\WifiMagager\\res\\drawable\\button_selector_green.xml"
+    },
+    {
+        "merged": "D:\\WifiMagager\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_style_white.xml",
+        "source": "D:\\WifiMagager\\res\\drawable\\btn_style_white.xml"
+    },
+    {
+        "merged": "D:\\WifiMagager\\build\\intermediates\\res\\merged\\debug\\drawable\\my_layout3.xml",
+        "source": "D:\\WifiMagager\\res\\drawable\\my_layout3.xml"
+    },
+    {
+        "merged": "D:\\WifiMagager\\build\\intermediates\\res\\merged\\debug\\drawable\\button_border3.xml",
+        "source": "D:\\WifiMagager\\res\\drawable\\button_border3.xml"
+    },
+    {
+        "merged": "D:\\WifiMagager\\build\\intermediates\\res\\merged\\debug\\drawable\\my_layout5.xml",
+        "source": "D:\\WifiMagager\\res\\drawable\\my_layout5.xml"
+    },
+    {
+        "merged": "D:\\WifiMagager\\build\\intermediates\\res\\merged\\debug\\drawable\\mylayout.xml",
+        "source": "D:\\WifiMagager\\res\\drawable\\mylayout.xml"
+    },
+    {
+        "merged": "D:\\WifiMagager\\build\\intermediates\\res\\merged\\debug\\drawable\\button_border.xml",
+        "source": "D:\\WifiMagager\\res\\drawable\\button_border.xml"
+    },
+    {
+        "merged": "D:\\WifiMagager\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_style_green.xml",
+        "source": "D:\\WifiMagager\\res\\drawable\\btn_style_green.xml"
+    },
+    {
+        "merged": "D:\\WifiMagager\\build\\intermediates\\res\\merged\\debug\\drawable\\my_layout2.xml",
+        "source": "D:\\WifiMagager\\res\\drawable\\my_layout2.xml"
+    },
+    {
+        "merged": "D:\\WifiMagager\\build\\intermediates\\res\\merged\\debug\\drawable\\mylayout2.xml",
+        "source": "D:\\WifiMagager\\res\\drawable\\mylayout2.xml"
+    },
+    {
+        "merged": "D:\\WifiMagager\\build\\intermediates\\res\\merged\\debug\\drawable\\button_border2.xml",
+        "source": "D:\\WifiMagager\\res\\drawable\\button_border2.xml"
+    },
+    {
+        "merged": "D:\\WifiMagager\\build\\intermediates\\res\\merged\\debug\\drawable\\my_layout_listview.xml",
+        "source": "D:\\WifiMagager\\res\\drawable\\my_layout_listview.xml"
+    }
+]

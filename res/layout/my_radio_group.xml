@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rd_bt_view"
+    android:layout_width="280dp"
+    android:layout_height="wrap_content"
+    android:background="@drawable/my_layout5"
+    android:gravity="center"
+    android:orientation="vertical" >
+
+    <RadioGroup
+        android:id="@+id/my_radioGroup"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:checkedButton="@+id/radio_hign" >
+
+        <RadioButton
+            android:id="@+id/radio_hign"
+            style="@style/rd_test"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/cfg_high"
+            android:textColor="#FF6666"
+            android:textSize="15sp" />
+
+        <RadioButton
+            android:id="@+id/radio_mid"
+            style="@style/rd_test"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/cfg_mid"
+            android:textColor="#FF6666"
+            android:textSize="15sp" />
+
+        <RadioButton
+            android:id="@+id/radio_low"
+            style="@style/rd_test"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/cfg_low"
+            android:textColor="#FF6666"
+            android:textSize="15sp" />
+
+        <RadioButton
+            android:id="@+id/radio_shield"
+            style="@style/rd_test"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/cfg_shield"
+            android:textColor="#FF6666"
+            android:textSize="15sp" />
+
+        <RadioButton
+            android:id="@+id/radio_no"
+            style="@style/rd_test"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/cfg_null"
+            android:textColor="#FF6666"
+            android:textSize="15sp" />
+    </RadioGroup>
+
+    <LinearLayout
+        android:layout_width="280dp"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/my_btn_save"
+            android:layout_width="115dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:background="@drawable/btn_style_green"
+            android:text="保存" />
+
+        <Button
+            android:id="@+id/btn_cancel"
+            android:layout_width="115dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:background="@drawable/btn_style_white"
+            android:text="返回"
+            android:textColor="#000000" />
+    </LinearLayout>
+
+</LinearLayout>

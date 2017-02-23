@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\WifiMagager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\game_center.png",
+        "source": "D:\\WifiMagager\\res\\drawable-hdpi\\game_center.png"
+    },
+    {
+        "merged": "D:\\WifiMagager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_submenu_normal.png",
+        "source": "D:\\WifiMagager\\res\\drawable-hdpi\\mm_submenu_normal.png"
+    },
+    {
+        "merged": "D:\\WifiMagager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\app_flat.png",
+        "source": "D:\\WifiMagager\\res\\drawable-hdpi\\app_flat.png"
+    },
+    {
+        "merged": "D:\\WifiMagager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\rss_icon.png",
+        "source": "D:\\WifiMagager\\res\\drawable-hdpi\\rss_icon.png"
+    }
+]

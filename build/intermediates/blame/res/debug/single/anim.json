@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\WifiMagager\\build\\intermediates\\res\\merged\\debug\\anim\\close_enter.xml",
+        "source": "D:\\WifiMagager\\res\\anim\\close_enter.xml"
+    },
+    {
+        "merged": "D:\\WifiMagager\\build\\intermediates\\res\\merged\\debug\\anim\\anim_into.xml",
+        "source": "D:\\WifiMagager\\res\\anim\\anim_into.xml"
+    },
+    {
+        "merged": "D:\\WifiMagager\\build\\intermediates\\res\\merged\\debug\\anim\\close_exit.xml",
+        "source": "D:\\WifiMagager\\res\\anim\\close_exit.xml"
+    },
+    {
+        "merged": "D:\\WifiMagager\\build\\intermediates\\res\\merged\\debug\\anim\\anim_back.xml",
+        "source": "D:\\WifiMagager\\res\\anim\\anim_back.xml"
+    }
+]

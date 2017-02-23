@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFCC"
+    android:padding="10dp" >
+
+    <TextView
+        android:id="@+id/tv_wifi_config_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/hello"
+        android:textColor="#339933"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/tv_wifi_config_belong"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toLeftOf="@+id/img_save_config"
+        android:paddingRight="30dp"
+        android:text="@string/hello"
+        android:textColor="#339999"
+        android:textSize="16sp" />
+
+    <ImageView
+        android:id="@+id/img_save_config"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerInParent="true"
+        android:contentDescription="@string/hello"
+        android:paddingRight="16dp"
+        android:src="@drawable/mm_submenu_normal" />
+
+</RelativeLayout>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Wifi小助理</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello">hello</string>
+    <string name="title_activity_wifi_save">WifiSave</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_wifi__state">Wifi_State</string>
+    <!-- wifi_states.xml -->
+    <string name="open_wifi">打开wifi功能</string>
+    <string name="close_wifi">关闭wifi功能</string>
+    <string name="state_wifi">查看当前wifi状态</string>
+    <string name="use_wifi">当前连接wifi信息</string>
+    <string name="cut_wifi">断开当前wifi</string>
+    <string name="reconnect_wifi">更换当前wifi连接</string>
+
+    <!-- wificonfigs_list_item.xml -->
+    <string name="search_wifi">搜索附近的wifi</string>
+    <string name="configed_wifi">已配置过的wifi</string>
+    <string name="link_strong">连接当前信号最强的wifi</string>
+    <string name="link_priority">连接当前优先级最高的wifi</string>
+    <string name="open_service">开启自动连接wifi服务</string>
+    <string name="close_service">关闭自动连接wifi服务</string>
+    <string name="save">Click to save</string>
+    <string name="name_of_wifi">wifi名称：</string>
+    <string name="priority">优先</string>
+    <string name="sheild">屏蔽</string>
+    <string name="set_priority">优先级：</string>
+    <string name="save_wifi_configs">保存wifi设置</string>
+    <string name="delete_wifi_configs">删除wifi设置</string>
+    <string name="title_activity_contact_me">ContactMe</string>
+    <string name="contact">联系邮箱：\nnannan3288@qq.com</string>
+    <string name="title_activity_my_test">MyTest</string>
+    <string name="title_activity_my_radio_group">MyRadioGroup</string>
+    <string name="cfg_high">高</string>
+    <string name="cfg_mid">中</string>
+    <string name="cfg_low">低</string>
+    <string name="cfg_shield">屏蔽</string>
+    <string name="cfg_null">无</string>
+    <string name="title_activity_wifi_map">WifiMapActivity</string>
+
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry kind="lib" path="D:/android安装/eclipse-java-juno-SR2-win32/adt-bundle-windows-x86-20130219/adt-bundle-windows-x86-20130219/sdk/platforms/android-19/android.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hzj/git/WifiManager/WifiMagager/libs/android-support-v4.jar"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry kind="lib" path="C:/Users/hzj/git/WifiManager/WifiMagager/libs/gdt_mob_release_v4.2.432.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hzj/git/WifiManager/WifiMagager/libs/TencentMapLBSApi_v3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hzj/git/WifiManager/WifiMagager/libs/TencentMapSDK_Raster_v1.0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hzj/git/WifiManager/WifiMagager/libs/lemilock1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hzj/git/WifiManager/WifiMagager/libs/mta-sdk-1.7.2.jar"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>

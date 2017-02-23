@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#CCCCFF" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="12dp"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/my_layout1"
+            android:gravity="center_vertical"
+            android:padding="5dp" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:text="打开wifi功能"
+                android:textSize="16sp" />
+
+            <CheckBox
+                android:id="@+id/cb_open_wifi"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:checked="true" />
+        </RelativeLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="12dp"
+            android:layout_marginTop="7dp"
+            android:background="@drawable/my_layout1"
+            android:gravity="center"
+            android:orientation="vertical" >
+
+            <RelativeLayout
+                android:id="@+id/view_set_priority"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/my_layout3"
+                android:gravity="center_vertical"
+                android:padding="10dp" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_centerVertical="true"
+                    android:text="wifi优先级设置"
+                    android:textColor="#000000"
+                    android:textSize="16sp" />
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:paddingRight="13dp"
+                    android:src="@drawable/mm_submenu_normal" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/my_layout2"
+                android:gravity="center_vertical"
+                android:padding="6dp" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_centerVertical="true"
+                    android:text="按照优先级自动管理wifi"
+                    android:textSize="16sp" />
+
+                <CheckBox
+                    android:id="@+id/cb_open_service"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:checked="false" />
+            </RelativeLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="12dp"
+            android:layout_marginTop="7dp"
+            android:background="@drawable/my_layout1"
+            android:gravity="center"
+            android:orientation="vertical" >
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/my_layout3"
+                android:gravity="center_vertical"
+                android:padding="6dp" >
+
+                <TextView
+                    android:id="@+id/tv_wifi_title"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_centerVertical="true"
+                    android:text="当前wifi名称："
+                    android:textSize="13sp" />
+
+                <TextView
+                    android:id="@+id/tv_wifi_myname"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_toRightOf="@+id/tv_wifi_title"
+                    android:text="无"
+                    android:textSize="14sp" />
+
+                <TextView
+                    android:id="@+id/tv_change_wifi_config"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_toLeftOf="@+id/img_use_wifi"
+                    android:text="修改"
+                    android:textColor="#000000"
+                    android:textSize="13sp" />
+
+                <ImageView
+                    android:id="@+id/img_use_wifi"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:paddingRight="10dp"
+                    android:src="@drawable/mm_submenu_normal" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/my_layout4"
+                android:gravity="center_vertical"
+                android:padding="5dp" >
+
+                <TextView
+                    android:id="@+id/tv_wifi_speed1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_centerVertical="true"
+                    android:text="当前wifi速度："
+                    android:textSize="16sp" />
+
+                <TextView
+                    android:id="@+id/tv_wifi_myspeed"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_toRightOf="@+id/tv_wifi_speed1"
+                    android:text="无"
+                    android:textSize="15sp" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/my_layout2"
+                android:gravity="center_vertical"
+                android:padding="6dp" >
+
+                <TextView
+                    android:id="@+id/tv_wifi_priority1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_centerVertical="true"
+                    android:text="当前wifi优先级："
+                    android:textSize="16sp" />
+
+                <TextView
+                    android:id="@+id/tv_wifi_mypriority"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_toRightOf="@+id/tv_wifi_priority1"
+                    android:text="无"
+                    android:textSize="15sp" />
+            </RelativeLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="2dp"
+            android:orientation="vertical"
+            android:padding="7dp" >
+
+            <Button
+                android:id="@+id/btn_wifi_refresh"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/button_selector_green"
+                android:text="刷新wifi信息" />
+
+            <Button
+                android:id="@+id/btn_wifi_pri"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="7dp"
+                android:background="@drawable/button_selector_green"
+                android:text="连接当前优先级最高的wifi" />
+
+            <Button
+                android:id="@+id/btn_wifi_strong"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="7dp"
+                android:background="@drawable/button_selector_green"
+                android:text="连接当前信号最强的wifi" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="7dp"
+                android:gravity="center"
+                android:orientation="horizontal" >
+
+                <Button
+                    android:id="@+id/btn_wifi_around"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="7dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/button_selector_green"
+                    android:text="搜索wifi" />
+
+                <Button
+                    android:id="@+id/btn_wifi_map"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/button_selector_green"
+                    android:text="wifi地图" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <!--
+             <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="12dp"
+            android:layout_marginTop="5dp"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:id="@+id/linear_apps"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:background="@drawable/mylayout"
+                android:orientation="horizontal"
+                android:padding="9dp" >
+
+                <ImageView
+                    android:layout_width="32dp"
+                    android:layout_height="32dp"
+                    android:layout_marginRight="3dp"
+                    android:padding="2dp"
+                    android:src="@drawable/app_flat" />
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_weight="1"
+                    android:padding="2dp"
+                    android:text="好应用推荐给亲"
+                    android:textColor="#33CC99"
+                    android:textSize="17sp" />
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:src="@drawable/mm_submenu_normal" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/linear_games"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:background="@drawable/mylayout2"
+                android:orientation="horizontal"
+                android:padding="9dp" >
+
+                <ImageView
+                    android:layout_width="32dp"
+                    android:layout_height="32dp"
+                    android:layout_marginRight="3dp"
+                    android:padding="2dp"
+                    android:src="@drawable/game_center" />
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_weight="1"
+                    android:padding="2dp"
+                    android:text="好游戏推荐给亲"
+                    android:textColor="#33CC99"
+                    android:textSize="17sp" />
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/mm_submenu_normal" />
+            </LinearLayout>
+        </LinearLayout>
+        -->
+    </LinearLayout>
+
+</ScrollView>

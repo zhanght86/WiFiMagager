@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\WifiMagager\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9e071cc5cd1498ba3af07d897d491604842cc018">
+        <dex dex="D:\WifiMagager\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_442a5848a028edef4d6af435f45d451a0bc48576\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\WifiMagager\libs\TencentMapLBSApi_v3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ac9381b2b91e4138fc521a8955cc1dd1c5b5d074">
+        <dex dex="D:\WifiMagager\build\intermediates\transforms\dex\debug\folders\1000\2\TencentMapLBSApi_v3.0_4aefe2c7c63a9363a3b8e99fd6803a762ed06989\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\WifiMagager\libs\android-support-v4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bd6479f5dd592790607e0504e66e0f31c2b4d308">
+        <dex dex="D:\WifiMagager\build\intermediates\transforms\dex\debug\folders\1000\2\android-support-v4_fc11cafd2f1efbc289eaef872652c7eefccb9828\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\WifiMagager\libs\lemilock1.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="87c992682ad9f1b97fb6eddf566cc5122bd597d1">
+        <dex dex="D:\WifiMagager\build\intermediates\transforms\dex\debug\folders\1000\2\lemilock1.0.1_1cf9285f15da23f024e905bc16ca8c7a67940bee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\WifiMagager\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fe663d14fd9be21efe24a82d4053342d6e405617">
+        <dex dex="D:\WifiMagager\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_b44269d99f65b2adb5456901415998f71eca08fa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\WifiMagager\libs\mta-sdk-1.7.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca3c8a370def6af300392320960e2d61bd4841b4">
+        <dex dex="D:\WifiMagager\build\intermediates\transforms\dex\debug\folders\1000\2\mta-sdk-1.7.2_87577ffe484e685966f96cd5f7ac85059551440e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\WifiMagager\libs\gdt_mob_release_v4.2.432.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="be1b124545a417c4550bc75af5950df7107dae60">
+        <dex dex="D:\WifiMagager\build\intermediates\transforms\dex\debug\folders\1000\2\gdt_mob_release_v4.2.432_734d0c1d6aef9211dc8ddeafe4cb1da0e19dafa1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\WifiMagager\libs\TencentMapSDK_Raster_v1.0.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="232c8c3964113f0f39a9f4cdd3473d5075d188aa">
+        <dex dex="D:\WifiMagager\build\intermediates\transforms\dex\debug\folders\1000\2\TencentMapSDK_Raster_v1.0.6_cfd58ca8742dc639f32afd3fa01d25d54eb94954\classes.dex" />
+    </item>
+
+</items>

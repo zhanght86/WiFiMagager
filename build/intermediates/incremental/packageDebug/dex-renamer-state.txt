@@ -1,0 +1,7 @@
+#Thu Feb 16 10:49:15 CST 2017
+base.0=D\:\\WifiMagager\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_442a5848a028edef4d6af435f45d451a0bc48576
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\WifiMagager\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_b44269d99f65b2adb5456901415998f71eca08fa\\classes.dex
+base.1=D\:\\WifiMagager\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_b44269d99f65b2adb5456901415998f71eca08fa
+file.0=D\:\\WifiMagager\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_442a5848a028edef4d6af435f45d451a0bc48576\\classes.dex

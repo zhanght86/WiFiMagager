@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\WifiMagager\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\WifiMagager\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\WifiMagager\\build\\intermediates\\res\\merged\\debug\\menu\\my_test.xml",
+        "source": "D:\\WifiMagager\\res\\menu\\my_test.xml"
+    },
+    {
+        "merged": "D:\\WifiMagager\\build\\intermediates\\res\\merged\\debug\\menu\\wifi__state.xml",
+        "source": "D:\\WifiMagager\\res\\menu\\wifi__state.xml"
+    },
+    {
+        "merged": "D:\\WifiMagager\\build\\intermediates\\res\\merged\\debug\\menu\\wifi_map.xml",
+        "source": "D:\\WifiMagager\\res\\menu\\wifi_map.xml"
+    },
+    {
+        "merged": "D:\\WifiMagager\\build\\intermediates\\res\\merged\\debug\\menu\\wifi_save.xml",
+        "source": "D:\\WifiMagager\\res\\menu\\wifi_save.xml"
+    },
+    {
+        "merged": "D:\\WifiMagager\\build\\intermediates\\res\\merged\\debug\\menu\\contact_me.xml",
+        "source": "D:\\WifiMagager\\res\\menu\\contact_me.xml"
+    },
+    {
+        "merged": "D:\\WifiMagager\\build\\intermediates\\res\\merged\\debug\\menu\\my_radio_group.xml",
+        "source": "D:\\WifiMagager\\res\\menu\\my_radio_group.xml"
+    }
+]

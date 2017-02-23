@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\WifiMagager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_style_two_focused.9.png",
+        "source": "D:\\WifiMagager\\res\\drawable-hdpi\\btn_style_two_focused.9.png"
+    },
+    {
+        "merged": "D:\\WifiMagager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_green_f.9.png",
+        "source": "D:\\WifiMagager\\res\\drawable-hdpi\\btn_green_f.9.png"
+    },
+    {
+        "merged": "D:\\WifiMagager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_style_one_disabled.9.png",
+        "source": "D:\\WifiMagager\\res\\drawable-hdpi\\btn_style_one_disabled.9.png"
+    },
+    {
+        "merged": "D:\\WifiMagager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_style_one_normal.9.png",
+        "source": "D:\\WifiMagager\\res\\drawable-hdpi\\btn_style_one_normal.9.png"
+    },
+    {
+        "merged": "D:\\WifiMagager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_style_one_pressed.9.png",
+        "source": "D:\\WifiMagager\\res\\drawable-hdpi\\btn_style_one_pressed.9.png"
+    },
+    {
+        "merged": "D:\\WifiMagager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_style_one_focused.9.png",
+        "source": "D:\\WifiMagager\\res\\drawable-hdpi\\btn_style_one_focused.9.png"
+    },
+    {
+        "merged": "D:\\WifiMagager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_green_n.9.png",
+        "source": "D:\\WifiMagager\\res\\drawable-hdpi\\btn_green_n.9.png"
+    },
+    {
+        "merged": "D:\\WifiMagager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_style_two_normal.9.png",
+        "source": "D:\\WifiMagager\\res\\drawable-hdpi\\btn_style_two_normal.9.png"
+    },
+    {
+        "merged": "D:\\WifiMagager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_style_two_pressed.9.png",
+        "source": "D:\\WifiMagager\\res\\drawable-hdpi\\btn_style_two_pressed.9.png"
+    }
+]
